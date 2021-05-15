@@ -1,0 +1,10 @@
+C:\Users\monte\Documents\Software\C#\UTF8_Convert_Setup\bin\Debug\UTF8_Convert_Setup.exe.config
+C:\Users\monte\Documents\Software\C#\UTF8_Convert_Setup\bin\Debug\UTF8_Convert_Setup.exe
+C:\Users\monte\Documents\Software\C#\UTF8_Convert_Setup\bin\Debug\UTF8_Convert_Setup.pdb
+C:\Users\monte\Documents\Software\C#\UTF8_Convert_Setup\obj\Debug\UTF8_Convert_Setup.csprojAssemblyReference.cache
+C:\Users\monte\Documents\Software\C#\UTF8_Convert_Setup\obj\Debug\UTF8_Convert_Setup.frmMain.resources
+C:\Users\monte\Documents\Software\C#\UTF8_Convert_Setup\obj\Debug\UTF8_Convert_Setup.Properties.Resources.resources
+C:\Users\monte\Documents\Software\C#\UTF8_Convert_Setup\obj\Debug\UTF8_Convert_Setup.csproj.GenerateResource.cache
+C:\Users\monte\Documents\Software\C#\UTF8_Convert_Setup\obj\Debug\UTF8_Convert_Setup.csproj.CoreCompileInputs.cache
+C:\Users\monte\Documents\Software\C#\UTF8_Convert_Setup\obj\Debug\UTF8_Convert_Setup.exe
+C:\Users\monte\Documents\Software\C#\UTF8_Convert_Setup\obj\Debug\UTF8_Convert_Setup.pdb
